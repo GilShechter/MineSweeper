@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Student: Gil Shechter
-ID: 207226317
-Assignment no. 6
+By: Gil Shechter
+Assignment no. 6 in Intro to Computer Science course
 Program: minesweeper.py
 """
 
